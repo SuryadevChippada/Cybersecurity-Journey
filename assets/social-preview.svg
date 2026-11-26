@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-label="Cybersecurity Journey social preview" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace">
+<title>Cybersecurity Journey social preview</title>
+<rect x="1" y="1" width="1278" height="638" rx="12" fill="#1D2021" stroke="#504945" stroke-width="2"/>
+<path d="M1 13a12 12 0 0 1 12-12h1254a12 12 0 0 1 12 12v27H1z" fill="#3C3836"/>
+<line x1="1" y1="40" x2="1279" y2="40" stroke="#504945" stroke-width="2"/>
+<circle cx="26" cy="21" r="7" fill="#FB4934"/><circle cx="50" cy="21" r="7" fill="#FABD2F"/><circle cx="74" cy="21" r="7" fill="#B8BB26"/>
+<text x="640.0" y="26" font-size="14" font-weight="400" fill="#A89984" text-anchor="middle" textLength="344.4" lengthAdjust="spacingAndGlyphs">suryadev@journey: ~/cybersecurity-journey</text>
+<text x="96" y="150" font-size="26" font-weight="700" fill="#B8BB26" text-anchor="start" textLength="15.6" lengthAdjust="spacingAndGlyphs">$</text><text x="126" y="150" font-size="26" font-weight="400" fill="#EBDBB2" text-anchor="start" textLength="202.8" lengthAdjust="spacingAndGlyphs">cat README.md</text>
+<text x="94" y="270" font-size="92" font-weight="700" fill="#FABD2F" text-anchor="start" textLength="717.6" lengthAdjust="spacingAndGlyphs">CYBERSECURITY</text>
+<text x="94" y="370" font-size="92" font-weight="700" fill="#EBDBB2" text-anchor="start" textLength="386.4" lengthAdjust="spacingAndGlyphs">JOURNEY</text>
+<text x="96" y="420" font-size="22" font-weight="400" fill="#A89984" text-anchor="start" textLength="712.8" lengthAdjust="spacingAndGlyphs">My personal knowledge base for learning cybersecurity.</text>
+<rect x="96.0" y="452" width="136.0" height="34" rx="17" fill="#B8BB26"/><text x="164.0" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="108.0" lengthAdjust="spacingAndGlyphs">FUNDAMENTALS</text><rect x="242.0" y="452" width="118.0" height="34" rx="17" fill="#83A598"/><text x="301.0" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="90.0" lengthAdjust="spacingAndGlyphs">NETWORKING</text><rect x="370.0" y="452" width="181.0" height="34" rx="17" fill="#D3869B"/><text x="460.5" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="153.0" lengthAdjust="spacingAndGlyphs">OPERATING SYSTEMS</text><rect x="561.0" y="452" width="127.0" height="34" rx="17" fill="#FABD2F"/><text x="624.5" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="99.0" lengthAdjust="spacingAndGlyphs">PROGRAMMING</text><rect x="698.0" y="452" width="100.0" height="34" rx="17" fill="#FB4934"/><text x="748.0" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="72.0" lengthAdjust="spacingAndGlyphs">SECURITY</text><rect x="808.0" y="452" width="163.0" height="34" rx="17" fill="#8EC07C"/><text x="889.5" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="135.0" lengthAdjust="spacingAndGlyphs">LABS &amp; PROJECTS</text><rect x="981.0" y="452" width="181.0" height="34" rx="17" fill="#FE8019"/><text x="1071.5" y="475" font-size="15" font-weight="700" fill="#282828" text-anchor="middle" textLength="153.0" lengthAdjust="spacingAndGlyphs">CERTS &amp; RESOURCES</text>
+<text x="96" y="560" font-size="20" font-weight="400" fill="#928374" text-anchor="start" textLength="588.0" lengthAdjust="spacingAndGlyphs">github.com/SuryadevChippada/Cybersecurity-Journey</text>
+<rect x="96.0" y="596" width="148.6" height="8" rx="4.0" fill="#FB4934"/>
+<rect x="252.6" y="596" width="148.6" height="8" rx="4.0" fill="#FE8019"/>
+<rect x="409.1" y="596" width="148.6" height="8" rx="4.0" fill="#FABD2F"/>
+<rect x="565.7" y="596" width="148.6" height="8" rx="4.0" fill="#B8BB26"/>
+<rect x="722.3" y="596" width="148.6" height="8" rx="4.0" fill="#8EC07C"/>
+<rect x="878.9" y="596" width="148.6" height="8" rx="4.0" fill="#83A598"/>
+<rect x="1035.4" y="596" width="148.6" height="8" rx="4.0" fill="#D3869B"/>
+</svg>

@@ -1,3 +1,5 @@
+<a href="README.md">&larr; Cybersecurity Journey</a>
+
 # Roadmap
 
 1. Computer Science and Security Fundamentals
@@ -16,3 +18,5 @@
 14. Personal Projects
 15. Security Research
 16. Certifications
+
+<img src="assets/divider.svg" width="100%" alt="">

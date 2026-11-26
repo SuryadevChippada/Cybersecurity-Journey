@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="22" viewBox="0 0 86 22" role="img" aria-label="lang: c++" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace">
+<title>lang: c++</title>
+<rect width="86.2" height="22" rx="4" fill="#D3869B"/>
+<path d="M4 0h42.4v22H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4z" fill="#3C3836"/>
+<rect x="0.5" y="0.5" width="85.2" height="21" rx="3.5" fill="none" stroke="#504945"/>
+<text x="10" y="15" font-size="11" font-weight="400" fill="#A89984" text-anchor="start" textLength="26.4" lengthAdjust="spacingAndGlyphs">lang</text>
+<text x="56.4" y="15" font-size="11" font-weight="700" fill="#282828" text-anchor="start" textLength="19.8" lengthAdjust="spacingAndGlyphs">c++</text>
+</svg>
