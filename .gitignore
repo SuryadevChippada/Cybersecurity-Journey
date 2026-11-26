@@ -221,3 +221,69 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets and credentials
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.ppk
+*.kdbx
+id_rsa*
+id_ed25519*
+id_ecdsa*
+credentials.json
+*.secret
+*.token
+.netrc
+.aws/
+.ssh/
+
+# Packet captures
+*.pcap
+*.pcapng
+*.cap
+
+# Virtual machine images
+*.ova
+*.ovf
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.qcow2
+*.iso
+
+# Memory dumps
+*.dmp
+*.mem
+*.vmem
+*.raw
+*.lime
+
+# Private research data
+private/
+*.private.*
+
+# Note-taking applications
+.obsidian/
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+*.tmp
+
+# Build artifacts
+*.o
+*.exe
+*.dll
+*.out
+*.class
+node_modules/
