@@ -2,7 +2,7 @@
 
 I am a university student working toward a career in cybersecurity. This repository is where I document what I learn and build along the way.
 
-It is organized by learning area and grows as I study, practise and complete my own work. My plan is in [ROADMAP.md](ROADMAP.md), and I track where I stand in [PROGRESS.md](PROGRESS.md).
+It is organized by learning area and grows as I study, practise and complete my own work. My plan is in [ROADMAP.md](ROADMAP.md).
 
 | Area | Purpose |
 | --- | --- |
