@@ -2,7 +2,7 @@
 
 | Learning Area | Status | Evidence |
 | --- | --- | --- |
-| Computer Science and Security Fundamentals | Not Started | |
+| Computer Science and Security Fundamentals | Started | |
 | Networking | Not Started | |
 | Operating Systems | Not Started | |
 | Programming and Scripting | Not Started | |
